@@ -16,5 +16,5 @@ public class mainClass {
 
 
 class someClass {
-    String string = "Whst's going on?";
+    String string = "What's going on?";
 }
