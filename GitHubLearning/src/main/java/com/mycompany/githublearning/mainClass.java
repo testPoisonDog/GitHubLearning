@@ -10,7 +10,7 @@
  */
 public class mainClass {
     public static void main (String[]args) {
-        String x;
+        String x = "string";
     }
 }
 
